@@ -1,0 +1,33 @@
+_repo: Forgotten-Books-of-the-American-NurseryA-History-of-the-Development-of-the-American-Story-Boo__17857
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Halsey, Rosalie Vrylina
+    gutenberg_agent_id: '7654'
+    url: http://www.gutenberg.org/2009/agents/7654
+description: ''
+gutenberg_issued: '2006-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17857'
+  lccn: '12001063'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nursery rhymes -- Bibliography'
+- !lcsh 'Children -- Books and reading -- United States -- History'
+- !lcc 'Z'
+- !lcsh 'Children''s literature, American -- Bibliography'
+tableOfContents: Introductory -- The play-book in England -- Newbery's books in America
+  -- Patriotic printers and the American Newbery -- The child and his book at the
+  end of the eighteenth century -- Toy-books in the early nineteenth century -- American
+  writers and English critics.
+title: 'Forgotten Books of the American Nursery
+
+  A History of the Development of the American Story-Book'
+url: http://www.gutenberg.org/ebooks/17857
